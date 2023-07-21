@@ -1,0 +1,267 @@
+/** common css start **/
+body {
+	margin: 0;
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 400px;
+	color: #;   
+}
+/** common css end**/  
+/**header css start**/
+header{
+
+}
+.container {
+	margin: 0 auto;
+	width: 60%;
+	overflow: hidden;
+}
+.logo {
+	width: 15%; 
+	float: left; 
+ 
+}
+.logo img { width: 100%;
+
+}
+.menu { 
+	margin: 0; 
+	width: 45%; 
+	float: left; 
+
+}
+.menu ul { 
+	float: left;
+	
+}	
+.menu ul li {
+	list-style: none;
+	float:left;
+
+
+}
+ .menu ul li a {
+ 	display: inline-block; 
+ 	text-decoration: none;
+ 	color: #292640; 
+  	padding: 0px 10px; 
+ 	transition: .33s;  
+
+ }
+ .menu ul li a:hover {
+ 	color: #ff6162; 
+ } 
+.button {
+	padding: 10px 0px 10px;  
+	width: 18%;  
+	float: right;    
+} 
+.button button { 
+	padding: 10px 0px 10px; 
+	background-color: #ff6162;
+	border: none;
+	border-radius: 3px;   
+
+}
+.button a { 
+	padding: 10px 5px;  
+	color: #ffffff;
+	text-decoration: none;
+	transition: .33s;  
+
+} 
+.button a:hover{
+	color: blue;  
+ }
+/**header css start**/
+
+/**banner css start**/
+.banner {
+padding: 100px 0px 190px;   
+}
+.b_left { 
+	width: 56%; 
+	float:left; 
+
+} 
+.b_left h1 {
+	 padding-right: 100px;   
+	 line-height: 30px;   
+}
+.b_left p {
+	color:#a2a4b9;  
+	
+} 
+.b_left a {
+	transition: .33s; 
+}
+ 
+.b_right { 
+	width: 40%; 
+	float: right;
+	
+}
+.b_right img {
+ 	width: 100%; 
+}
+/**banner css end**/ 
+
+/**demo css start**/
+
+.demo {
+
+}
+.container2 {
+	margin: 0 auto;
+	width: 90%; 
+} 
+.d_top {
+	width: 100%; 
+	text-align: center; 
+
+}
+.d_top h1 { 
+	margin: 10px 0px 10px; 
+	
+}
+.d_top p { 
+	margin: 0; 
+	padding: 0px 350px;   
+	font-size: 12px; 
+	font-style: italic; 
+	color: #a2a4b9;   
+	 
+} 
+.d_buttom {
+	padding: 40px 0px 200px;  
+	overflow: hidden; 
+
+}
+.d_item {
+	margin-right:2.66%;   
+	width: 23%; 
+	float: left;
+	
+}
+.d_item img {
+	width: 100%;  
+	
+}
+.d_item p { 
+	font-weight: 700px; 
+	text-align: center; 
+
+}  
+.img-p {
+	margin-right: 0px; 
+}
+
+
+/**demo css end**/
+
+/**feature css start**/  
+.feature {
+
+}
+
+.f_top { 
+	width: 100%; 
+	text-align: center;  
+}
+.f_top h1 {
+	margin: 10px 0px 10px; 
+}
+.f_top p {
+	margin: 0;
+	font-size: 12px; 
+	color: #a2a4b9;    
+	font-style: italic; 
+}
+.f_buttom {  
+	padding: 30px 0px 50px; 
+	overflow: hidden; 
+
+}
+.f_item {
+	margin: 0% 2% 2% 0%;      
+	width: 32%; 
+	height: 215px;  
+	background-color: #f5f5f5;
+	text-align: center;  
+	border: none; 
+	border-radius: 3px; 
+	float: left;  
+
+}
+.item_img {width: 30%;
+	padding: 25px 85px;     
+
+}
+.item_img img { width: 100%; 
+
+}
+.f_item h2 {
+	margin: 0;
+	padding: 0px 15px;  
+	font-size: 14px;  
+
+
+}
+.f_item p {
+	padding: 0px 5px;  
+	font-size: 12px;   
+} 
+.f {
+	margin-right: 0%;    
+}
+/**footer css start**/
+footer {
+
+}
+.container3 {
+	background-color: #292640;
+	text-align: center;
+
+}
+.container3 h1 {
+	margin: 0; 
+	color: #ffffff;
+ 	padding: 80px 450px 25px;      
+}
+.container3 button {
+	padding: 10px 0px 10px; 
+	background-color: #ff6162;
+	border: none;
+	border-radius: 3px;
+
+}
+.container3 button a {padding: 10px 5px;  
+	color: #ffffff;
+	text-decoration: none;
+	transition: .33s;  
+
+} 
+.container3 a:hover{
+	color: blue;    
+
+}
+ .container3 p {
+	margin: 0; 
+	padding: 25px 0px; 
+ 	 
+
+ }
+.container3 p a {
+	color: #a2a4b9;  
+ 	letter-spacing: 5px;  
+ 	text-decoration: none;
+	transition: .33s; 
+
+}
+/**footer css end**/ 
+
+					
+
+
+	
+				 
